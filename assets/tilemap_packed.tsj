@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"..\/..\/Downloads\/kenney_pixel-platformer-food-expansion\/Tilemap\/tilemap_packed.png",
+ "imageheight":126,
+ "imagewidth":288,
+ "margin":0,
+ "name":"tilemap_packed",
+ "spacing":0,
+ "tilecount":112,
+ "tiledversion":"1.10.2",
+ "tileheight":18,
+ "tilewidth":18,
+ "type":"tileset",
+ "version":"1.10"
+}

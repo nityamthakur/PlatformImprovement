@@ -17,7 +17,7 @@ let config = {
     parent: 'phaser-game',
     type: Phaser.CANVAS,
     render: {
-        pixelArt: true  // prevent pixel art from getting blurred when scaled
+        pixelArt: true
     },
     physics: {
         default: 'arcade',
@@ -31,11 +31,11 @@ let config = {
     },
     width: 1440,
     height: 900,
-    scene: [Load, Platformer]
+    scene: [Load, CandyRun]
 }
 
 var cursors;
 const SCALE = 2.0;
-var my = {sprite: {}, text: {}, vfx: {}};
+var my = { sprite: {}, text: {}, vfx: {} };
 
 const game = new Phaser.Game(config);
