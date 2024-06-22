@@ -1,7 +1,7 @@
-**Platform Improvement**
+IcyRun
 
-Starter code for creating a platformer game using Arcade Phsyics in Phaser.
+Created by Nityam.
 
-Visual assets courtesy of [Kenny Assets](https://kenney.nl/assets), with gratitude.
+Get the key and complete the level. Each coin is worth 1 point and the diamond(optional) is worth 10.
 
-hello
+Have fun!
